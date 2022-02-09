@@ -1,4 +1,4 @@
-package Programmers_Lv_1;
+package Programmers_Level_1;
 
 public class keyPad_kakaoIntern {
 
