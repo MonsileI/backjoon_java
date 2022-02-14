@@ -4,7 +4,7 @@ public class plusbetweenAandB {
 
 	public static void main(String[] args) {
 		
-		int a =3;
+		int a =4;
 		int b= 5;
 		Date0214 date0214 = new Date0214();
 		

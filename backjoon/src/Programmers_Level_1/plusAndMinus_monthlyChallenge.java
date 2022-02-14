@@ -12,7 +12,7 @@ public class plusAndMinus_monthlyChallenge {
 
 	public static void main(String[] args) throws IOException {
 		
-	int[] numbers = {4,7,12};
+	int[] numbers = {5,7,12};
 	
 	boolean []signs = {true,false,true};
 	int result = 0;
