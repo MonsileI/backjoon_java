@@ -71,7 +71,6 @@ public class jelda {
 				temp[newI][newJ] = 1;
 				now += arr[newI][newJ];
 				grandTheftAuto(now,newI,newJ,arr,temp);
-				now = arr[0][j];
 				temp[newI][newJ] = 0;
 				
 			}
